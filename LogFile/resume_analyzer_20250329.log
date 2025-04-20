@@ -1,0 +1,432 @@
+2025-03-29 10:25:44,910 - INFO - Application started
+2025-03-29 10:25:44,910 - WARNING - API key not entered
+2025-03-29 10:25:52,844 - INFO - Application started
+2025-03-29 10:25:52,846 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:25:52,851 - INFO - No file uploaded yet
+2025-03-29 10:26:05,451 - INFO - Application started
+2025-03-29 10:26:05,451 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:26:05,458 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:26:05,461 - INFO - Starting PDF text extraction
+2025-03-29 10:26:05,498 - INFO - PDF text extraction completed successfully
+2025-03-29 10:26:05,508 - INFO - Extracted resume text displayed to user
+2025-03-29 10:26:07,315 - INFO - Application started
+2025-03-29 10:26:07,315 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:26:07,315 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:26:07,331 - INFO - Starting PDF text extraction
+2025-03-29 10:26:07,372 - INFO - PDF text extraction completed successfully
+2025-03-29 10:26:07,372 - INFO - Extracted resume text displayed to user
+2025-03-29 10:26:07,372 - INFO - Analyze Resume button clicked
+2025-03-29 10:26:07,379 - INFO - Starting resume analysis
+2025-03-29 10:26:07,379 - INFO - Creating AI assistant
+2025-03-29 10:26:07,379 - INFO - AI assistant created successfully
+2025-03-29 10:26:09,068 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 10:26:09,069 - ERROR - Failed to analyze resume: Error code: 400 - {'error': {'message': 'The model `llama3-groq-70b-8192-tool-use-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 10:31:33,355 - INFO - Application started
+2025-03-29 10:31:33,355 - WARNING - API key not entered
+2025-03-29 10:31:45,137 - INFO - Application started
+2025-03-29 10:31:45,137 - WARNING - API key not entered
+2025-03-29 10:31:46,889 - INFO - Application started
+2025-03-29 10:31:46,905 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:31:46,905 - INFO - No file uploaded yet
+2025-03-29 10:31:57,216 - INFO - Application started
+2025-03-29 10:31:57,216 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:31:57,216 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:31:57,216 - INFO - Starting PDF text extraction
+2025-03-29 10:31:57,275 - INFO - PDF text extraction completed successfully
+2025-03-29 10:31:57,275 - INFO - Extracted resume text displayed to user
+2025-03-29 10:31:59,172 - INFO - Application started
+2025-03-29 10:31:59,172 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:31:59,172 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:31:59,172 - INFO - Starting PDF text extraction
+2025-03-29 10:31:59,224 - INFO - PDF text extraction completed successfully
+2025-03-29 10:31:59,224 - INFO - Extracted resume text displayed to user
+2025-03-29 10:31:59,224 - INFO - Analyze Resume button clicked
+2025-03-29 10:31:59,224 - INFO - Starting resume analysis
+2025-03-29 10:31:59,224 - INFO - Creating AI assistant
+2025-03-29 10:31:59,224 - INFO - AI assistant created successfully
+2025-03-29 10:32:01,985 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:32:04,550 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:32:04,550 - INFO - Resume analysis completed successfully
+2025-03-29 10:32:04,550 - INFO - Resume analysis results displayed
+2025-03-29 10:32:53,275 - INFO - Application started
+2025-03-29 10:32:53,275 - WARNING - API key not entered
+2025-03-29 10:32:57,009 - INFO - Application started
+2025-03-29 10:32:57,011 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:32:57,014 - INFO - No file uploaded yet
+2025-03-29 10:33:03,278 - INFO - Application started
+2025-03-29 10:33:03,278 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:33:03,278 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:33:03,278 - INFO - Starting PDF text extraction
+2025-03-29 10:33:03,345 - INFO - PDF text extraction completed successfully
+2025-03-29 10:33:03,345 - INFO - Extracted resume text displayed to user
+2025-03-29 10:33:04,506 - INFO - Application started
+2025-03-29 10:33:04,506 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:33:04,522 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:33:04,538 - INFO - Starting PDF text extraction
+2025-03-29 10:33:04,586 - INFO - PDF text extraction completed successfully
+2025-03-29 10:33:04,586 - INFO - Extracted resume text displayed to user
+2025-03-29 10:33:04,586 - INFO - Analyze Resume button clicked
+2025-03-29 10:33:04,586 - INFO - Starting resume analysis
+2025-03-29 10:33:04,586 - INFO - Creating AI assistant
+2025-03-29 10:33:04,586 - INFO - AI assistant created successfully
+2025-03-29 10:33:07,408 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:33:10,581 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:33:10,589 - INFO - Resume analysis completed successfully
+2025-03-29 10:33:10,592 - INFO - Resume analysis results displayed
+2025-03-29 10:33:46,943 - INFO - Application started
+2025-03-29 10:33:46,943 - WARNING - API key not entered
+2025-03-29 10:33:55,048 - INFO - Application started
+2025-03-29 10:33:55,048 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:33:55,048 - INFO - No file uploaded yet
+2025-03-29 10:34:00,709 - INFO - Application started
+2025-03-29 10:34:00,709 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:34:00,709 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:34:00,709 - INFO - Starting PDF text extraction
+2025-03-29 10:34:00,751 - INFO - PDF text extraction completed successfully
+2025-03-29 10:34:00,756 - INFO - Extracted resume text displayed to user
+2025-03-29 10:34:02,168 - INFO - Application started
+2025-03-29 10:34:02,168 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:34:02,168 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:34:02,168 - INFO - Starting PDF text extraction
+2025-03-29 10:34:02,220 - INFO - PDF text extraction completed successfully
+2025-03-29 10:34:02,222 - INFO - Extracted resume text displayed to user
+2025-03-29 10:34:02,222 - INFO - Analyze Resume button clicked
+2025-03-29 10:34:02,222 - INFO - Starting resume analysis
+2025-03-29 10:34:02,231 - INFO - Creating AI assistant
+2025-03-29 10:34:02,231 - INFO - AI assistant created successfully
+2025-03-29 10:34:04,852 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:34:07,985 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:34:07,985 - INFO - Resume analysis completed successfully
+2025-03-29 10:34:08,003 - INFO - Resume analysis results displayed
+2025-03-29 10:35:41,366 - INFO - Application started
+2025-03-29 10:35:41,366 - WARNING - API key not entered
+2025-03-29 10:35:54,638 - INFO - Application started
+2025-03-29 10:35:54,638 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:35:54,641 - INFO - No file uploaded yet
+2025-03-29 10:36:04,220 - INFO - Application started
+2025-03-29 10:36:04,220 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:36:04,220 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:36:04,229 - INFO - Starting PDF text extraction
+2025-03-29 10:36:04,280 - INFO - PDF text extraction completed successfully
+2025-03-29 10:36:04,287 - INFO - Extracted resume text displayed to user
+2025-03-29 10:36:05,768 - INFO - Application started
+2025-03-29 10:36:05,768 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:36:05,768 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:36:05,772 - INFO - Starting PDF text extraction
+2025-03-29 10:36:05,814 - INFO - PDF text extraction completed successfully
+2025-03-29 10:36:05,817 - INFO - Extracted resume text displayed to user
+2025-03-29 10:36:05,817 - INFO - Analyze Resume button clicked
+2025-03-29 10:36:05,822 - INFO - Starting resume analysis
+2025-03-29 10:36:05,822 - INFO - Creating AI assistant
+2025-03-29 10:36:05,822 - INFO - AI assistant created successfully
+2025-03-29 10:36:08,148 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:36:11,631 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:36:11,631 - INFO - Resume analysis completed successfully
+2025-03-29 10:36:11,631 - INFO - Resume analysis results displayed
+2025-03-29 10:37:20,623 - INFO - Application started
+2025-03-29 10:37:20,623 - WARNING - API key not entered
+2025-03-29 10:37:27,102 - INFO - Application started
+2025-03-29 10:37:27,102 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:37:27,105 - INFO - No file uploaded yet
+2025-03-29 10:37:33,541 - INFO - Application started
+2025-03-29 10:37:33,545 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:37:33,545 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:37:33,549 - INFO - Starting PDF text extraction
+2025-03-29 10:37:33,589 - INFO - PDF text extraction completed successfully
+2025-03-29 10:37:33,593 - INFO - Extracted resume text displayed to user
+2025-03-29 10:37:35,043 - INFO - Application started
+2025-03-29 10:37:35,043 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:37:35,043 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:37:35,043 - INFO - Starting PDF text extraction
+2025-03-29 10:37:35,091 - INFO - PDF text extraction completed successfully
+2025-03-29 10:37:35,093 - INFO - Extracted resume text displayed to user
+2025-03-29 10:37:35,093 - INFO - Analyze Resume button clicked
+2025-03-29 10:37:35,098 - INFO - Starting resume analysis
+2025-03-29 10:37:35,098 - INFO - Creating AI assistant
+2025-03-29 10:37:35,101 - INFO - AI assistant created successfully
+2025-03-29 10:37:37,444 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:37:40,725 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:37:40,725 - INFO - Resume analysis completed successfully
+2025-03-29 10:37:40,725 - INFO - Resume analysis results displayed
+2025-03-29 10:38:24,625 - INFO - Application started
+2025-03-29 10:38:24,625 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:38:24,628 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:38:24,629 - INFO - Starting PDF text extraction
+2025-03-29 10:38:24,673 - INFO - PDF text extraction completed successfully
+2025-03-29 10:38:24,673 - INFO - Extracted resume text displayed to user
+2025-03-29 10:38:24,692 - INFO - Analyze Resume button clicked
+2025-03-29 10:38:24,696 - INFO - Starting resume analysis
+2025-03-29 10:38:24,696 - INFO - Creating AI assistant
+2025-03-29 10:38:24,697 - INFO - AI assistant created successfully
+2025-03-29 10:38:27,318 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:38:29,937 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:38:29,937 - INFO - Resume analysis completed successfully
+2025-03-29 10:38:29,937 - INFO - Resume analysis results displayed
+2025-03-29 10:38:35,656 - INFO - Application started
+2025-03-29 10:38:35,656 - WARNING - API key not entered
+2025-03-29 10:38:41,159 - INFO - Application started
+2025-03-29 10:38:41,159 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:38:41,161 - INFO - No file uploaded yet
+2025-03-29 10:38:46,623 - INFO - Application started
+2025-03-29 10:38:46,623 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:38:46,623 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:38:46,623 - INFO - Starting PDF text extraction
+2025-03-29 10:38:46,661 - INFO - PDF text extraction completed successfully
+2025-03-29 10:38:46,666 - INFO - Extracted resume text displayed to user
+2025-03-29 10:38:47,928 - INFO - Application started
+2025-03-29 10:38:47,928 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:38:47,936 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:38:47,936 - INFO - Starting PDF text extraction
+2025-03-29 10:38:47,977 - INFO - PDF text extraction completed successfully
+2025-03-29 10:38:47,977 - INFO - Extracted resume text displayed to user
+2025-03-29 10:38:47,984 - INFO - Analyze Resume button clicked
+2025-03-29 10:38:47,984 - INFO - Starting resume analysis
+2025-03-29 10:38:47,984 - INFO - Creating AI assistant
+2025-03-29 10:38:47,984 - INFO - AI assistant created successfully
+2025-03-29 10:38:50,228 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:38:52,361 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:38:52,361 - INFO - Resume analysis completed successfully
+2025-03-29 10:38:52,361 - INFO - Resume analysis results displayed
+2025-03-29 10:40:22,900 - INFO - Application started
+2025-03-29 10:40:22,901 - WARNING - API key not entered
+2025-03-29 10:41:00,235 - INFO - Application started
+2025-03-29 10:41:00,235 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:41:00,237 - INFO - No file uploaded yet
+2025-03-29 10:41:04,020 - INFO - Application started
+2025-03-29 10:41:04,020 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:41:04,020 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:41:04,020 - INFO - Starting PDF text extraction
+2025-03-29 10:41:04,063 - INFO - PDF text extraction completed successfully
+2025-03-29 10:41:04,067 - INFO - Extracted resume text displayed to user
+2025-03-29 10:41:05,259 - INFO - Application started
+2025-03-29 10:41:05,259 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:41:05,259 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:41:05,267 - INFO - Starting PDF text extraction
+2025-03-29 10:41:05,311 - INFO - PDF text extraction completed successfully
+2025-03-29 10:41:05,319 - INFO - Extracted resume text displayed to user
+2025-03-29 10:41:05,319 - INFO - Analyze Resume button clicked
+2025-03-29 10:41:05,319 - INFO - Starting resume analysis
+2025-03-29 10:41:05,319 - INFO - Creating AI assistant
+2025-03-29 10:41:05,325 - INFO - AI assistant created successfully
+2025-03-29 10:41:07,569 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:41:10,643 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:41:10,643 - INFO - Resume analysis completed successfully
+2025-03-29 10:41:10,643 - INFO - Resume analysis results displayed
+2025-03-29 10:43:08,436 - INFO - Application started
+2025-03-29 10:43:08,436 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:43:08,440 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:43:08,442 - INFO - Starting PDF text extraction
+2025-03-29 10:43:08,489 - INFO - PDF text extraction completed successfully
+2025-03-29 10:43:08,489 - INFO - Extracted resume text displayed to user
+2025-03-29 10:43:08,498 - INFO - Analyze Resume button clicked
+2025-03-29 10:43:08,501 - INFO - Starting resume analysis
+2025-03-29 10:43:08,503 - INFO - Creating AI assistant
+2025-03-29 10:43:08,504 - INFO - AI assistant created successfully
+2025-03-29 10:43:11,583 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:43:14,033 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:43:14,033 - INFO - Resume analysis completed successfully
+2025-03-29 10:43:14,033 - INFO - Resume analysis results displayed
+2025-03-29 10:43:38,132 - INFO - Application started
+2025-03-29 10:43:38,132 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:43:38,134 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:43:38,137 - INFO - Starting PDF text extraction
+2025-03-29 10:43:38,181 - INFO - PDF text extraction completed successfully
+2025-03-29 10:43:38,181 - INFO - Extracted resume text displayed to user
+2025-03-29 10:43:38,181 - INFO - Analyze Resume button clicked
+2025-03-29 10:43:38,188 - INFO - Starting resume analysis
+2025-03-29 10:43:38,188 - INFO - Creating AI assistant
+2025-03-29 10:43:38,188 - INFO - AI assistant created successfully
+2025-03-29 10:43:40,551 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:43:42,918 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:43:42,920 - INFO - Resume analysis completed successfully
+2025-03-29 10:43:42,920 - INFO - Resume analysis results displayed
+2025-03-29 10:44:25,567 - INFO - Application started
+2025-03-29 10:44:25,567 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:44:25,567 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:44:25,573 - INFO - Starting PDF text extraction
+2025-03-29 10:44:25,618 - INFO - PDF text extraction completed successfully
+2025-03-29 10:44:25,622 - INFO - Extracted resume text displayed to user
+2025-03-29 10:44:25,622 - INFO - Analyze Resume button clicked
+2025-03-29 10:44:25,625 - INFO - Starting resume analysis
+2025-03-29 10:44:25,625 - INFO - Creating AI assistant
+2025-03-29 10:44:25,625 - INFO - AI assistant created successfully
+2025-03-29 10:44:29,767 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:44:35,946 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:44:35,954 - INFO - Resume analysis completed successfully
+2025-03-29 10:44:35,959 - INFO - Resume analysis results displayed
+2025-03-29 10:44:52,082 - INFO - Application started
+2025-03-29 10:44:52,082 - WARNING - API key not entered
+2025-03-29 10:44:58,441 - INFO - Application started
+2025-03-29 10:44:58,443 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:44:58,443 - INFO - No file uploaded yet
+2025-03-29 10:45:02,839 - INFO - Application started
+2025-03-29 10:45:02,839 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:45:02,839 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:45:02,839 - INFO - Starting PDF text extraction
+2025-03-29 10:45:02,887 - INFO - PDF text extraction completed successfully
+2025-03-29 10:45:02,887 - INFO - Extracted resume text displayed to user
+2025-03-29 10:45:04,026 - INFO - Application started
+2025-03-29 10:45:04,026 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:45:04,033 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-AmexusAI.pdf
+2025-03-29 10:45:04,033 - INFO - Starting PDF text extraction
+2025-03-29 10:45:04,074 - INFO - PDF text extraction completed successfully
+2025-03-29 10:45:04,080 - INFO - Extracted resume text displayed to user
+2025-03-29 10:45:04,086 - INFO - Analyze Resume button clicked
+2025-03-29 10:45:04,087 - INFO - Starting resume analysis
+2025-03-29 10:45:04,087 - INFO - Creating AI assistant
+2025-03-29 10:45:04,090 - INFO - AI assistant created successfully
+2025-03-29 10:45:06,351 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:45:08,600 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:45:08,600 - INFO - Resume analysis completed successfully
+2025-03-29 10:45:08,603 - INFO - Resume analysis results displayed
+2025-03-29 10:45:52,954 - INFO - Application started
+2025-03-29 10:45:52,954 - WARNING - API key not entered
+2025-03-29 10:45:57,265 - INFO - Application started
+2025-03-29 10:45:57,266 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:45:57,268 - INFO - No file uploaded yet
+2025-03-29 10:46:02,051 - INFO - Application started
+2025-03-29 10:46:02,057 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:46:02,057 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:46:02,061 - INFO - Starting PDF text extraction
+2025-03-29 10:46:02,098 - INFO - PDF text extraction completed successfully
+2025-03-29 10:46:02,105 - INFO - Extracted resume text displayed to user
+2025-03-29 10:46:03,314 - INFO - Application started
+2025-03-29 10:46:03,314 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:46:03,314 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:46:03,324 - INFO - Starting PDF text extraction
+2025-03-29 10:46:03,371 - INFO - PDF text extraction completed successfully
+2025-03-29 10:46:03,374 - INFO - Extracted resume text displayed to user
+2025-03-29 10:46:03,374 - INFO - Analyze Resume button clicked
+2025-03-29 10:46:03,381 - INFO - Starting resume analysis
+2025-03-29 10:46:03,382 - INFO - Creating AI assistant
+2025-03-29 10:46:03,383 - INFO - AI assistant created successfully
+2025-03-29 10:46:06,693 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:46:10,073 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:46:10,073 - INFO - Resume analysis completed successfully
+2025-03-29 10:46:10,073 - INFO - Resume analysis results displayed
+2025-03-29 10:47:13,002 - INFO - Application started
+2025-03-29 10:47:13,002 - WARNING - API key not entered
+2025-03-29 10:47:19,997 - INFO - Application started
+2025-03-29 10:47:19,997 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:47:19,999 - INFO - No file uploaded yet
+2025-03-29 10:47:25,623 - INFO - Application started
+2025-03-29 10:47:25,623 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:47:25,624 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:47:25,626 - INFO - Starting PDF text extraction
+2025-03-29 10:47:25,669 - INFO - PDF text extraction completed successfully
+2025-03-29 10:47:25,673 - INFO - Extracted resume text displayed to user
+2025-03-29 10:47:29,428 - INFO - Application started
+2025-03-29 10:47:29,428 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:47:29,428 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:47:29,428 - INFO - Starting PDF text extraction
+2025-03-29 10:47:29,480 - INFO - PDF text extraction completed successfully
+2025-03-29 10:47:29,488 - INFO - Extracted resume text displayed to user
+2025-03-29 10:47:29,488 - INFO - Analyze Resume button clicked
+2025-03-29 10:47:29,494 - INFO - Starting resume analysis
+2025-03-29 10:47:29,494 - INFO - Creating AI assistant
+2025-03-29 10:47:29,495 - INFO - AI assistant created successfully
+2025-03-29 10:47:31,953 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:47:34,186 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:47:34,186 - INFO - Resume analysis completed successfully
+2025-03-29 10:47:34,203 - INFO - Resume analysis results displayed
+2025-03-29 10:49:16,782 - INFO - Application started
+2025-03-29 10:49:16,782 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:49:16,782 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:49:16,791 - INFO - Starting PDF text extraction
+2025-03-29 10:49:16,846 - INFO - PDF text extraction completed successfully
+2025-03-29 10:49:16,846 - INFO - Extracted resume text displayed to user
+2025-03-29 10:49:16,860 - INFO - Analyze Resume button clicked
+2025-03-29 10:49:16,863 - INFO - Starting resume analysis
+2025-03-29 10:49:16,863 - INFO - Creating AI assistant
+2025-03-29 10:49:16,863 - INFO - AI assistant created successfully
+2025-03-29 10:49:19,444 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:49:21,711 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:49:21,711 - INFO - Resume analysis completed successfully
+2025-03-29 10:49:21,711 - INFO - Resume analysis results displayed
+2025-03-29 10:50:29,085 - INFO - Application started
+2025-03-29 10:50:29,085 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:50:29,085 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:50:29,085 - INFO - Starting PDF text extraction
+2025-03-29 10:50:29,143 - INFO - PDF text extraction completed successfully
+2025-03-29 10:50:29,149 - INFO - Extracted resume text displayed to user
+2025-03-29 10:50:29,149 - INFO - Analyze Resume button clicked
+2025-03-29 10:50:29,149 - INFO - Starting resume analysis
+2025-03-29 10:50:29,149 - INFO - Creating AI assistant
+2025-03-29 10:50:29,156 - INFO - AI assistant created successfully
+2025-03-29 10:50:31,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:50:33,677 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:50:33,677 - INFO - Resume analysis completed successfully
+2025-03-29 10:50:33,677 - INFO - Resume analysis results displayed
+2025-03-29 10:54:22,127 - INFO - Application started
+2025-03-29 10:54:22,127 - WARNING - API key not entered
+2025-03-29 10:54:49,165 - INFO - Application started
+2025-03-29 10:54:49,165 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:54:49,165 - INFO - No file uploaded yet
+2025-03-29 10:55:04,572 - INFO - Application started
+2025-03-29 10:55:04,572 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:55:04,572 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:55:04,581 - INFO - Starting PDF text extraction
+2025-03-29 10:55:04,631 - INFO - PDF text extraction completed successfully
+2025-03-29 10:55:04,635 - INFO - Extracted resume text displayed to user
+2025-03-29 10:55:06,575 - INFO - Application started
+2025-03-29 10:55:06,575 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:55:06,575 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:55:06,575 - INFO - Starting PDF text extraction
+2025-03-29 10:55:06,625 - INFO - PDF text extraction completed successfully
+2025-03-29 10:55:06,629 - INFO - Extracted resume text displayed to user
+2025-03-29 10:55:06,629 - INFO - Analyze Resume button clicked
+2025-03-29 10:55:06,629 - INFO - Starting resume analysis
+2025-03-29 10:55:06,629 - INFO - Creating AI assistant
+2025-03-29 10:55:06,629 - INFO - AI assistant created successfully
+2025-03-29 10:55:09,616 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:55:14,122 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:55:14,122 - INFO - Resume analysis completed successfully
+2025-03-29 10:55:14,122 - INFO - Resume analysis results displayed
+2025-03-29 10:56:04,672 - INFO - Application started
+2025-03-29 10:56:04,672 - WARNING - API key not entered
+2025-03-29 10:56:08,973 - INFO - Application started
+2025-03-29 10:56:08,973 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:56:08,980 - INFO - No file uploaded yet
+2025-03-29 10:56:16,077 - INFO - Application started
+2025-03-29 10:56:16,077 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:56:16,079 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:56:16,079 - INFO - Starting PDF text extraction
+2025-03-29 10:56:16,125 - INFO - PDF text extraction completed successfully
+2025-03-29 10:56:16,125 - INFO - Extracted resume text displayed to user
+2025-03-29 10:56:17,543 - INFO - Application started
+2025-03-29 10:56:17,543 - INFO - API key entered: gsk_**** (masked for security)
+2025-03-29 10:56:17,543 - INFO - File uploaded: Resume-G.-VENKATA-SAI-BADHRINADH-Peroptyx.pdf
+2025-03-29 10:56:17,543 - INFO - Starting PDF text extraction
+2025-03-29 10:56:17,591 - INFO - PDF text extraction completed successfully
+2025-03-29 10:56:17,591 - INFO - Extracted resume text displayed to user
+2025-03-29 10:56:17,591 - INFO - Analyze Resume button clicked
+2025-03-29 10:56:17,591 - INFO - Starting resume analysis
+2025-03-29 10:56:17,591 - INFO - Creating AI assistant
+2025-03-29 10:56:17,591 - INFO - AI assistant created successfully
+2025-03-29 10:56:20,367 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 10:56:23,232 - INFO - HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-03-29 10:56:23,232 - INFO - Resume analysis completed successfully
+2025-03-29 10:56:23,248 - INFO - Resume analysis results displayed
+2025-03-29 10:57:40,342 - INFO - Application started
+2025-03-29 10:57:40,342 - WARNING - API key not entered
+2025-03-29 10:58:05,963 - INFO - Application started
+2025-03-29 10:58:05,963 - INFO - API key entered: yahg**** (masked for security)
+2025-03-29 10:58:05,967 - INFO - No file uploaded yet
+2025-03-29 10:58:43,290 - INFO - Application started
+2025-03-29 10:58:43,290 - INFO - API key entered: yahg**** (masked for security)
+2025-03-29 10:58:43,296 - INFO - File uploaded: Summer_Internship_2025_Flyer.pdf
+2025-03-29 10:58:43,300 - INFO - Starting PDF text extraction
+2025-03-29 10:58:43,439 - INFO - PDF text extraction completed successfully
+2025-03-29 10:58:43,442 - INFO - Extracted resume text displayed to user
+2025-03-29 10:58:48,047 - INFO - Application started
+2025-03-29 10:58:48,047 - INFO - API key entered: yahg**** (masked for security)
+2025-03-29 10:58:48,047 - INFO - File uploaded: Summer_Internship_2025_Flyer.pdf
+2025-03-29 10:58:48,047 - INFO - Starting PDF text extraction
+2025-03-29 10:58:48,158 - INFO - PDF text extraction completed successfully
+2025-03-29 10:58:48,158 - INFO - Extracted resume text displayed to user
+2025-03-29 10:58:48,158 - INFO - Analyze Resume button clicked
+2025-03-29 10:58:48,174 - INFO - Starting resume analysis
+2025-03-29 10:58:48,174 - INFO - Creating AI assistant
+2025-03-29 10:58:48,174 - INFO - AI assistant created successfully
+2025-03-29 10:58:49,067 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-29 10:58:49,067 - ERROR - Failed to analyze resume: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}

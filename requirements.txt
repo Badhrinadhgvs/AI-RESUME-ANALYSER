@@ -1,0 +1,6 @@
+streamlit
+groq
+PyPDF2
+phidata
+logging
+duckduckgo-search
