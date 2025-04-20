@@ -1,34 +1,26 @@
-# Project Title
+# Resume AI Analyzer
 
-**AgenticAI**  
+**AgenticAI - Project**  
 
 ## Table of Contents  
-- [Overview](#overview)  
-- [Features](#features)  
+ 
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Technologies Used](#technologies-used)  
 - [Contributing](#contributing)  
 - [License](#license)  
 
-## Overview  
-AgenticAI is a cutting-edge project designed to provide intelligent solutions for [specific domain/purpose]. This project aims to [briefly describe the goal or problem it solves].  
 
-## Features  
-- **Feature 1**: [Description of feature 1]  
-- **Feature 2**: [Description of feature 2]  
-- **Feature 3**: [Description of feature 3]  
-- **Scalable and Modular**: Built to adapt to future requirements.  
 
 ## Installation  
 Follow these steps to set up the project locally:  
 1. Clone the repository:  
   ```bash  
-  git clone https://github.com/yourusername/AgenticAI.git  
+  git clone https://github.com/Badhrinadhgvs/AI-RESUME-ANALYSER.git  
   ```  
 2. Navigate to the project directory:  
   ```bash  
-  cd AgenticAI  
+  cd AI-RESUME-ANALYSER  
   ```  
 3. Install dependencies:  
   ```bash  
@@ -42,7 +34,6 @@ Follow these steps to set up the project locally:
 ## Usage  
 1. Launch the application using the installation steps above.  
 2. Access the interface at `http://localhost:3000`.  
-3. [Provide specific instructions for using the application].  
 
 ## Technologies Used  
 - **Frontend**: [Python-streamlit]  
